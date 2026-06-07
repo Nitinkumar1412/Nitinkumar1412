@@ -3,15 +3,14 @@
 🚀 AI & Machine Learning Enthusiast
 
 ## About Me
-- 🎓 B.Tech Student
+- 🎓 B.Tech Student(2nd year)
 - 🤖 Learning Machine Learning, Deep Learning & LLMs
 - 🏥 Building AI-powered Healthcare Solutions
 - 📚 Interested in Explainable AI, NLP and Computer Vision
 
 ## Current Projects
 - Diabetes Prediction using Explainable AI
-- Healthcare AI Copilot
-- Medical NLP Research
+- working on Healthcare AI Copilot
 
 ## Tech Stack
 - Python
@@ -19,13 +18,13 @@
 - Machine Learning
 - Deep Learning
 - TensorFlow
+- scikit-Learn
 - PyTorch
 - Git & GitHub
 
 ## Connect With Me
 - LinkedIn: Your LinkedIn URL
-- Email: your-email@example.com## Hi there 👋
-
+- Email: nitinkumar14121@gmail.com
 <!--
 **Nitinkumar1412/Nitinkumar1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
